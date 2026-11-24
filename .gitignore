@@ -1,0 +1,17 @@
+# Ambiente virtual Python
+.venv/
+venv/
+
+# Cache e build Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Arquivos temporários do LibreOffice / sistema
+.~lock.*
+.DS_Store
+
+# Repositório externo do curso (possui seu próprio .git interno)
+# Remova esta linha apenas se quiser versioná-lo como submódulo
+ai-engineering-from-scratch/
